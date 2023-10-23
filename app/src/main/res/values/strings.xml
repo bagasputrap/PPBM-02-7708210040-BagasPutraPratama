@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">B.Ticket</string>
+    <string name="todo">TODO</string>
+    <string name="welcome">Welcome</string>
+    <string name="enjoy_using_my_application">Enjoy using my application</string>
+    <string name="bagasputrapratama_2023">BagasPutraPratama@2023</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+
+
+</resources>
